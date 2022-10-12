@@ -1,0 +1,29 @@
+.eheto{
+    font-size: 40px;
+    color: RGB(0, 150, 0)
+}
+
+.link1{
+    text-decoration: none;
+    color: RGB(0, 0, 90)
+}
+
+.figyelem{
+        font-size: 20px;
+        color: RGB(255, 0, 0)
+}
+
+.border1 {
+    border: 10px solid rgb(0, 150, 0);
+    margin-right: 1200px;
+}
+
+.border2 {
+    border: 10px solid rgb(255, 0, 0);
+    margin-right: 1150px;
+}
+
+.border3{
+    border: 10px solid black;
+    margin-left: 1350px;
+}
