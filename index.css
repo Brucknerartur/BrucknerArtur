@@ -25,17 +25,18 @@ table, td, tr{
         color: RGB(255, 0, 0)
 }
 
-.border1 {
+.border_eheto {
     border: 10px solid rgb(0, 150, 0);
-    margin-right: 1200px;
+    text-align: justify;
+    width: fit-content;
+    align-self: center;
+    border-radius: 5vh;
 }
 
-.border2 {
+.border_nemeheto {
     border: 10px solid rgb(255, 0, 0);
-    margin-right: 1150px;
-}
-
-.border3{
-    border: 10px solid black;
-    margin-left: 1350px;
+    text-align: justify;
+    width: fit-content;
+    align-self: center;
+    border-radius: 5vh;
 }
