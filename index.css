@@ -20,7 +20,7 @@ table, td, tr{
     color: RGB(0, 150, 0)
 }
 
-.figyelem{
+.fontos{
         font-size: 20px;
         color: RGB(255, 0, 0)
 }
@@ -39,4 +39,18 @@ table, td, tr{
     width: fit-content;
     align-self: center;
     border-radius: 5vh;
+}
+
+.gombakep{
+    border: 10px solid burlywood;
+    border-radius: 5vh;
+}
+
+.feligeheto{
+    font-size: 40px;
+    color: RGB(0, 150, 0);
+    border: 5px solid red;
+    border-radius: 5vh;
+    padding: 10px;
+    font-weight: bold;
 }
