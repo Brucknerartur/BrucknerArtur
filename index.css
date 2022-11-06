@@ -31,6 +31,7 @@ table, td, tr{
     width: fit-content;
     align-self: center;
     border-radius: 5vh;
+    padding: 10px;
 }
 
 .border_nemeheto {
@@ -39,11 +40,13 @@ table, td, tr{
     width: fit-content;
     align-self: center;
     border-radius: 5vh;
+    padding: 10px;
 }
 
 .gombakep{
     border: 10px solid burlywood;
     border-radius: 5vh;
+    float: none;
 }
 
 .feligeheto{
@@ -53,4 +56,8 @@ table, td, tr{
     border-radius: 5vh;
     padding: 10px;
     font-weight: bold;
+}
+
+img{
+    float: left;
 }
