@@ -1,6 +1,7 @@
 body{
     background-color: RGB(20, 20, 20, 0.987);
     color: white;
+    font-size: large;
 }
 
 hr{
@@ -61,4 +62,10 @@ table, td, tr{
 
 img{
     float: left;
+}
+
+.nemeheto{
+    font-size: 40px;
+    color: red;
+    font-weight: bold;
 }
